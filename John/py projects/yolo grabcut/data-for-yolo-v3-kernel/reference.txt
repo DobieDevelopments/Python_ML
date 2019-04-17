@@ -1,0 +1,3 @@
+https://www.kaggle.com/aruchomu/yolo-v3-object-detection-in-tensorflow/data
+
+get weights from here if needed.
